@@ -1,5 +1,5 @@
 # TomoFramework
-s is serverside programs.  
+app.t is serverside programs.  
 v is frontend programs.  
 all file is yaml.  
 
