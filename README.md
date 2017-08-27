@@ -13,3 +13,8 @@ Development is done on one component worldwide.
 5.  Many people will be able to easily create services.
 6.  and if possible, I want to give incentives against programer that create server's program.  
 
+## using
+1. tomo pull tomo1  
+2. created tomo1 folder  
+
+
